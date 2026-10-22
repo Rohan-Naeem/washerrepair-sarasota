@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://washerrepairsarasota.com/sitemap.xml
+Sitemap: https://washerrepair-sarasota.vercel.app/sitemap.xml
