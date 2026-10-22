@@ -1,0 +1,81 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/appliances-burns-court.html",
+      "destination": "/appliances-burns-court",
+      "permanent": true
+    },
+    {
+      "source": "/appliances-gillespie-park.html",
+      "destination": "/appliances-gillespie-park",
+      "permanent": true
+    },
+    {
+      "source": "/appliances-laurel-park.html",
+      "destination": "/appliances-laurel-park",
+      "permanent": true
+    },
+    {
+      "source": "/blog.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact.html",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/locations.html",
+      "destination": "/locations",
+      "permanent": true
+    },
+    {
+      "source": "/privacy-policy.html",
+      "destination": "/privacy-policy",
+      "permanent": true
+    },
+    {
+      "source": "/services.html",
+      "destination": "/services",
+      "permanent": true
+    },
+    {
+      "source": "/washer-drain-pump.html",
+      "destination": "/washer-drain-pump",
+      "permanent": true
+    },
+    {
+      "source": "/washer-leak-repair.html",
+      "destination": "/washer-leak-repair",
+      "permanent": true
+    },
+    {
+      "source": "/washer-not-draining.html",
+      "destination": "/washer-not-draining",
+      "permanent": true
+    },
+    {
+      "source": "/washer-shaking-off-balance.html",
+      "destination": "/washer-shaking-off-balance",
+      "permanent": true
+    },
+    {
+      "source": "/washing-machine-repair.html",
+      "destination": "/washing-machine-repair",
+      "permanent": true
+    }
+  ]
+}
